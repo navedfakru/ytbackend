@@ -1,0 +1,11 @@
+{
+  "name": "ytbackend",
+  "version": "1.0.0",
+  "description": "youtube backend full stack using node.js, express.js, mongoos.js, react-native, react.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naved Ali",
+  "license": "ISC"
+}
