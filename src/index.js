@@ -13,6 +13,9 @@ connectDB()
       console.log("ERROR: ", error);
       throw error;
     });
+    // app.get("/",(req, res) => {
+    //   res.send("<h1 style='color: red; text-align: center'>Naved duar code</h1>")
+    // })
     app.listen(process.env.PORT, () => {
       console.log(`Server is running at port: ${process.env.PORT}`);
     });
